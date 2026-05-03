@@ -52,6 +52,7 @@ https://www.figma.com/proto/5SiCPGJXKFHhd5DhHHef5i/Roamboom?node-id=0-1&t=wdD5xh
 * This section shows wishlist and categorized browsing options for users.
   <img width="566" height="836" alt="image" src="https://github.com/user-attachments/assets/07534521-66eb-4bb4-9bdf-703b2b444156" />
   
+* The following sitemap and information architecture diagrams show the structure and navigation flow of the application.  
 * SiteMap
   <img width="960" height="540" alt="Untitled presentation (1)" src="https://github.com/user-attachments/assets/3200cd46-5eb0-4b59-aade-e5edb8150fc0" />
 
