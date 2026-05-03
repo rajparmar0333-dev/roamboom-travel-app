@@ -46,10 +46,10 @@ https://www.figma.com/proto/5SiCPGJXKFHhd5DhHHef5i/Roamboom?node-id=0-1&t=wdD5xh
 ---
 
 ## Project Screenshots
-* Image of Home Page/ Guide and Agencies/ Explore and Group Chat
+* These screens show the homepage, guides, agencies, and group chat features of our app.
   <img width="1182" height="632" alt="image" src="https://github.com/user-attachments/assets/93854c9c-9ff7-4b68-a5b8-4bde728eecfb" />
 
-* Image of Wishlist and all the Category
+* This section shows wishlist and categorized browsing options for users.
   <img width="566" height="836" alt="image" src="https://github.com/user-attachments/assets/07534521-66eb-4bb4-9bdf-703b2b444156" />
   
 * SiteMap
